@@ -1,4 +1,4 @@
-# ms-contract-testing
+# Microservices Contract Testing
 Pact is the de-facto API contract testing tool. Replace expensive and brittle end-to-end integration tests with fast, reliable and easy to debug unit tests.
 
 ⚡ Lightning fast
